@@ -15,7 +15,7 @@ You can use Docker volume for persistant RabbitMQ data. For this example we used
 -v "/var/docker_volumes/message_brokers/rabbitmq/log:/var/log/rabbitmq" \
 ```
 
-If you got error in Docker logs as "Permission denied to write log file", you need to change log directory permission is 777.
+If you got error in Docker logs as "Permission denied to write log file", you need to change log directory permission as 777.
 
 ```sh
 chmod 777 /var/docker_volumes/message_brokers/rabbitmq/log
