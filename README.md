@@ -19,6 +19,10 @@ This project created for helping users to create environment as docker.
 
 - Redis
 
+### Git Servers
+
+- Gogs
+
 ### Message Brokers
 
 - RabbitMQ
