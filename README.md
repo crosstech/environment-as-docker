@@ -32,6 +32,10 @@ This project created for helping users to create environment as docker.
 - RabbitMQ
 - Kafka
 
+### Registries
+
+- Docker Registry
+
 ## Notes
 
 ### Port Errors
